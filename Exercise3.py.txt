@@ -1,0 +1,30 @@
+# Write a program to illustrate Method overriding in python.
+  create classes called SBI and ICICI, ICICI is child class of SBI.
+  create a method called rateOfInterest() in SBI and ICICI classes.
+
+
+class SBI:
+    # declare variables called principal, rate, time and rate_of_Interest
+
+
+    # define a method called setSBI(principal,rate,time) and assigne local variable values to instance varaibles
+
+
+
+    # define a method called rateOfInterest() and write the logic to calculate rate of interest
+
+
+class ICICI(SBI):
+    # declare variables called principal, rate, time and rate_of_Interest
+
+
+    # define a method called setSBI(principal,rate,time) and assigne local variable values to instance varaibles
+
+
+
+    # define a method called rateOfInterest() and write the logic to calculate rate of interest
+
+
+
+
+# Take input from user and create object for SBI and ICICI classes and display the rate of interest for SBI and ICICI
